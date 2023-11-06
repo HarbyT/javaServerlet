@@ -1,0 +1,5 @@
+com\mycompany\usuarioswebtextoscuanticos\controller\UsuarioServlet.class
+com\mycompany\usuarioswebtextoscuanticos\dao\UsuarioDAO.class
+com\mycompany\usuarioswebtextoscuanticos\model\Usuario.class
+com\mycompany\usuarioswebtextoscuanticos\JakartaRestConfiguration.class
+com\mycompany\usuarioswebtextoscuanticos\resources\JakartaEE10Resource.class
